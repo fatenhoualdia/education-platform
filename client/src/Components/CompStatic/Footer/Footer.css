@@ -1,0 +1,13 @@
+.footer {
+  display: flex;
+  justify-content: space-around;
+
+  
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+li a {
+  color: white;
+}
